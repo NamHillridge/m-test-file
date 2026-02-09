@@ -1,0 +1,36 @@
+﻿Summary,,
+high_wind_threshold,15,kph
+actual_lost_fishing_hour,14,hour
+threshold_lost_fishing_hour,10,hour
+daily_lost_fishing_day,Yes,
+cumulative_lost_fishing_days,4,days
+accepted_lost_fishing_days_to_date,3,days
+payment_required,Yes,
+payment_amount,1200,PHP
+,,
+Hourly windspeed data,,
+datetime,hourly_wind_speed,unit
+2/5/2026 0:00,12.5,kph
+2/5/2026 1:00,13.2,kph
+2/5/2026 2:00,14,kph
+2/5/2026 3:00,15.8,kph
+2/5/2026 4:00,16.4,kph
+2/5/2026 5:00,17.1,kph
+2/5/2026 6:00,18,kph
+2/5/2026 7:00,19.2,kph
+2/5/2026 8:00,20.1,kph
+2/5/2026 9:00,18.7,kph
+2/5/2026 10:00,17.5,kph
+2/5/2026 11:00,16,kph
+2/5/2026 12:00,15.2,kph
+2/5/2026 13:00,14.6,kph
+2/5/2026 14:00,13.9,kph
+2/5/2026 15:00,14.1,kph
+2/5/2026 16:00,15.5,kph
+2/5/2026 17:00,16.8,kph
+2/5/2026 18:00,17.9,kph
+2/5/2026 19:00,16.3,kph
+2/5/2026 20:00,15,kph
+2/5/2026 21:00,14.2,kph
+2/5/2026 22:00,13.5,kph
+2/5/2026 23:00,12.8,kph
